@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 
 import ImageGallery from 'src/ImageGallery';
 
+// Prefix URL
 const PREFIX_URL = 'https://raw.githubusercontent.com/xiaolin/react-image-gallery/master/static/';
 
 class App extends React.Component {
